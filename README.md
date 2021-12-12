@@ -1,5 +1,5 @@
 # project-melody
 
 ### Технологии:
--html
--css
+- html
+- css
